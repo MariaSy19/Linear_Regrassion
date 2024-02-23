@@ -19,8 +19,12 @@ this project implements a simple linear regression model using gradient descent 
 
 5. **Results:**
    - Final weights and training loss displayed.
+## Parameters:
+- Learning Rate(LR):0.01
+- Iterations: 1000
 
 ## Running the Code
 
 1. **Dependencies:**
    - Ensure `numpy`, `pandas`, and `scikit-learn` are installed.
+
